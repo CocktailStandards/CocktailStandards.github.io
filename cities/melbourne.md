@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cocktail Standards: Melbourne
+title: Cocktail Standards - Melbourne
 ---
 
 ## Black Pearl
