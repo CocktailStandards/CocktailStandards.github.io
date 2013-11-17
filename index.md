@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Cocktail Standards
+show_nav: true
 ---
 
-[Americas](#americas) | 
-[Europe](#europe) | 
-[Oceania](#oceania) | 
-[Asia](#asia) | 
-*[submissions](README)*
-
+    
 ⚛ Molecular Mixology
 🍸 Classic Cocktails
 ⭐️ Must Visit
