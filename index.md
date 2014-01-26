@@ -27,6 +27,7 @@ show_nav: true
 
 ### London
 
+* [Artesian](http://www.artesian-bar.co.uk/) - Classic, yet playful 🍸
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
 
 ### Munich
