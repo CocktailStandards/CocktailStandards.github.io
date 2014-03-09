@@ -21,7 +21,7 @@ show_nav: true
 
 ### Seattle
 
-* [Canon](http://www.canonseattle.com) - Overwhelming variety  🍸
+* [Canon](http://www.canonseattle.com) - Overwhelming variety 🍸
 
 ## Europe
 
@@ -29,6 +29,8 @@ show_nav: true
 
 * [Artesian](http://www.artesian-bar.co.uk/) - Classic, yet playful 🍸
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
+* [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection ⭐️
+* [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Stay for dinner 🍴
 
 ### Munich
 
