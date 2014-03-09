@@ -60,3 +60,10 @@ show_nav: true
 
 * [Tender Bar](http://www.sunnypages.jp/travel_guide/tokyo_nightlife/bars/Tender+Bar+Ginza/4422) - White tie, hard shake  🍸
 
+
+
+
+---
+
+*Still looking? Try [Bar Chick](http://www.barchick.com) or get yourself a copy of [Destination Cocktails](http://www.amazon.com/Destination-Cocktails-Travelers-Superior-Libations/dp/1595800727).*
+
