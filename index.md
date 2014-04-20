@@ -58,6 +58,8 @@ show_nav: true
 
 ### Tokyo
 
+
+* [Codename Mixology](http://bar-navi.suntory.co.jp/shop/0X00229664/) - Modernist mixology madness ⚛🍴⭐️ 
 * [Tender Bar](http://www.sunnypages.jp/travel_guide/tokyo_nightlife/bars/Tender+Bar+Ginza/4422) - White tie, hard shake  🍸
 
 
