@@ -15,6 +15,11 @@ show_nav: true
 
 ## Americas 
 
+### New York City
+
+* [Death and Co](http://www.deathandcompany.com) - Modern classic ⭐️
+* [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
+
 ### San Francisco
 
 * [Cantina](http://www.cantinasf.com) - Try the Pisco Punch
