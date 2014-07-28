@@ -28,6 +28,10 @@ show_nav: true
 
 * [Canon](http://www.canonseattle.com) - Overwhelming variety 🍸
 
+### Toronto
+
+* [barchef](http://www.barcheftoronto.com) - Inventive and dark ⚛
+
 ## Europe
 
 ### London
