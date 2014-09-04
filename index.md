@@ -41,6 +41,10 @@ show_nav: true
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection ⭐️
 * [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Stay for dinner 🍴
 
+### Istanbul
+
+* [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
+
 ### Munich
 
 * [Gamsei](http://gamsei.com) - Left Melbourne, still molecular  ⚛
