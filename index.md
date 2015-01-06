@@ -19,6 +19,7 @@ show_nav: true
 
 * [Death and Co](http://www.deathandcompany.com) - Modern classic ⭐️
 * [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
+* [Angel's Share](http://www.yelp.com/biz/angels-share-new-york) - Speakeasy with unique drinks; four-person limit
 
 ### San Francisco
 
