@@ -49,6 +49,12 @@ show_nav: true
 
 * [Gamsei](http://gamsei.com) - Left Melbourne, still molecular  ⚛
 
+## Middle East
+
+### Tel Aviv
+
+* [Bellboy](//bellboybar.com/) – Dark, decadent 1930s speakeasy 🍸⭐️
+
 ## Oceania 
 
 ### Melbourne
