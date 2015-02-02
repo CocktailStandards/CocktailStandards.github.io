@@ -46,10 +46,6 @@ show_nav: true
 
 * [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
 
-### Munich
-
-* [Gamsei](http://gamsei.com) - Left Melbourne, still molecular  ⚛
-
 ## Middle East
 
 ### Tel Aviv
