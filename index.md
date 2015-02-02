@@ -88,5 +88,5 @@ show_nav: true
 
 ---
 
-*Still looking? Try [Bar Chick](http://www.barchick.com) or get yourself a copy of [Destination Cocktails](http://www.amazon.com/Destination-Cocktails-Travelers-Superior-Libations/dp/1595800727).*
+*Still looking? Try [Bar Chick](http://www.barchick.com) or get yourself a copy of [Destination Cocktails](http://www.amazon.com/Destination-Cocktails-Travelers-Superior-Libations/dp/1595800727). Just want to caffeinate? Go to [Coffee Standards](http://coffeestandards.github.io).*
 
