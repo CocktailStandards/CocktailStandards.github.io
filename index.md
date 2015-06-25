@@ -56,7 +56,7 @@ show_nav: true
 
 ### Melbourne
 
-* [Bar Economico](http://www.bareconomico.com.au/) - Cheap, cheerful and good
+* [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails ⭐️
 * [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
 * [1806](http://www.1806.com.au) - Red velvet classics 🍸
 * [Boston Sub (Jungle Boy)](http://www.bostonsub.com.au) - Through the freezer 🍴
