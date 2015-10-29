@@ -56,7 +56,7 @@ show_nav: true
 
 ### Melbourne
 
-* [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails ⭐️
+* [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails
 * [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
 * [1806](http://www.1806.com.au) - Red velvet classics 🍸
 * [Boston Sub (Jungle Boy)](http://www.bostonsub.com.au) - Through the freezer 🍴
@@ -69,20 +69,20 @@ show_nav: true
 * [Quinary](http://www.quinary.hk) - Molecular, loud and fun  ⚛
 
 
+### Sapporo
+
+* [Bar Stars 2003](http://barstars2003.com/links/sp/index.html) - Omakase perfection 🍸
+
+
 ### Singapore
 
 * [Tippling Club](http://www.tipplingclub.com/) - Another Bax wonder  🍸🍷
 
+
 ### Tokyo
 
-
-* [Codename Mixology](http://bar-navi.suntory.co.jp/shop/0X00229664/) - Modernist mixology madness ⚛🍴⭐️ 
+* [Codename Mixology](http://bar-navi.suntory.co.jp/shop/0X00229664/) - Modernist mixology madness ⚛🍴 
 * [Tender Bar](http://www.sunnypages.jp/travel_guide/tokyo_nightlife/bars/Tender+Bar+Ginza/4422) - White tie, hard shake  🍸
-
-### Sapporo
-
-* [Bar Stars 2003](http://barstars2003.com/links/sp/index.html) - Omakase perfection
-
 
 
 ---
