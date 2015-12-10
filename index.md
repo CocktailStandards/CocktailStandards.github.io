@@ -15,6 +15,10 @@ show_nav: true
 
 ## Americas 
 
+### Boston
+
+_While you're in town, pick up excellent cocktail supplies at [The Boston Shaker](http://www.thebostonshaker.com)._
+
 ### New York City
 
 * [Death and Co](http://www.deathandcompany.com) - Modern classic ⭐️
@@ -58,9 +62,12 @@ show_nav: true
 
 * [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails
 * [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
-* [1806](http://www.1806.com.au) - Red velvet classics 🍸
 * [Boston Sub (Jungle Boy)](http://www.bostonsub.com.au) - Through the freezer 🍴
 
+### Sydney
+
+* [Lobo Plantation](http://thelobo.com.au) - Rum, lots of rum 🍴
+* [Bulletin Place](http://bulletinplace.com) - Tiny and tropical 
 
 ## Asia
 
@@ -84,6 +91,7 @@ show_nav: true
 * [Codename Mixology](http://bar-navi.suntory.co.jp/shop/0X00229664/) - Modernist mixology madness ⚛🍴 
 * [Tender Bar](http://www.sunnypages.jp/travel_guide/tokyo_nightlife/bars/Tender+Bar+Ginza/4422) - White tie, hard shake  🍸
 
+_While you're in town, pick up excellent barware and related supplies at [創吉](https://maps.google.com/?q=〒111-0034+Tokyo,+Taito,+Kaminarimon,+2+Chome−1−14,+創吉&ftid=0x60188ec6877f6135:0x462a9cbdfc415f70&hl=en-JP&gl=jp&shorturl=1)._
 
 ---
 
