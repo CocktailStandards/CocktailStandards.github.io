@@ -19,6 +19,10 @@ show_nav: true
 
 _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker](http://www.thebostonshaker.com)._
 
+### Buenos Aires
+
+* [Florería Atlántico](http://www.floreriaatlantico.com.ar) - Crowded under the florist
+
 ### New York City
 
 * [Death and Co](http://www.deathandcompany.com) - Modern classic ⭐️
