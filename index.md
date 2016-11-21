@@ -83,10 +83,14 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Quinary](http://www.quinary.hk) - Molecular, loud and fun  ⚛
 
-
 ### Sapporo
 
 * [Bar Stars 2003](http://barstars2003.com/links/sp/index.html) - Omakase perfection 🍸
+
+### Seoul
+
+* [Monkey Shoulder](https://www.facebook.com/monkeyshoulderseoul) - More than whisky
+* [Alice Cheongdam](http://www.alicecheongdam.com) - Wonderland underground
 
 
 ### Singapore
