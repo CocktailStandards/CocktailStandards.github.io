@@ -19,6 +19,10 @@ show_nav: true
 
 _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker](http://www.thebostonshaker.com)._
 
+### Chicago
+
+* [The Aviary](https://theaviary.com/) - Liquid Alinea ⭐️⚛
+
 ### Buenos Aires
 
 * [Florería Atlántico](http://www.floreriaatlantico.com.ar) - Crowded under the florist
