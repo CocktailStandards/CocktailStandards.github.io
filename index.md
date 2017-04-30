@@ -51,7 +51,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection ⭐️
-* [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Stay for dinner 🍴
+* [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Drink, don't eat 🍴
 
 ### Istanbul
 
@@ -111,4 +111,4 @@ _While you're in town, pick up excellent barware and related supplies at [創吉
 
 ---
 
-*Still looking? Try [Bar Chick](http://www.barchick.com) or get yourself a copy of [Destination Cocktails](http://www.amazon.com/Destination-Cocktails-Travelers-Superior-Libations/dp/1595800727). Just want to caffeinate? Go to [Coffee Standards](http://coffeestandards.github.io).*
+*Still looking? Try [Bar Chick](http://www.barchick.com) or get yourself a copy of [Destination Cocktails](http://www.amazon.com/Destination-Cocktails-Travelers-Superior-Libations/dp/1595800727).*
