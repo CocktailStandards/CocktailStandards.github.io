@@ -33,9 +33,9 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 * [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
 * [Angel's Share](http://www.yelp.com/biz/angels-share-new-york) - Laid back but serious 
 
-### San Francisco
+### San Francisco Bay Area
 
-* [Cantina](http://www.cantinasf.com) - Try the Pisco Punch
+* [Mortar & Pestle](http://www.curryupnow.com/mortarandpestlebar) - Very well-balanced
 
 ### Seattle
 
