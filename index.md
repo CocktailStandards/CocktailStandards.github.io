@@ -105,7 +105,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Tokyo
 
-* [Codename Mixology](http://bar-navi.suntory.co.jp/shop/0X00229664/) - Modernist mixology madness ⚛🍴 
+* [Codename Mixology](http://r.goope.jp/spirits-sharing/t_57110) - Modernist mixology madness ⚛🍴 _multiple locations_
 * [Tender Bar](http://www.sunnypages.jp/travel_guide/tokyo_nightlife/bars/Tender+Bar+Ginza/4422) - White tie, hard shake  🍸
 
 _While you're in town, pick up excellent barware and related supplies at [創吉](https://maps.google.com/?q=〒111-0034+Tokyo,+Taito,+Kaminarimon,+2+Chome−1−14,+創吉&ftid=0x60188ec6877f6135:0x462a9cbdfc415f70&hl=en-JP&gl=jp&shorturl=1)._
