@@ -37,10 +37,6 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 * [Mortar & Pestle](http://www.curryupnow.com/mortarandpestlebar) - Very well-balanced
 * [Pacific Cocktail Haven](http://pacificcocktailsf.com) - Friendly, loud, impeccable 
 
-### Seattle
-
-* [Canon](http://www.canonseattle.com) - Overwhelming variety 🍸
-
 ### Toronto
 
 * [barchef](http://www.barcheftoronto.com) - Inventive and dark ⚛
