@@ -7,7 +7,6 @@ show_nav: true
     
 ⚛ Molecular Mixology
 🍸 Classic Cocktails
-⭐️ Must Visit
 🍷 Wine
 🍴 Food
 
@@ -21,7 +20,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Chicago
 
-* [The Aviary](https://theaviary.com/) - Liquid Alinea ⭐️⚛
+* [The Aviary](https://theaviary.com/) - Liquid Alinea ⚛
 
 ### Buenos Aires
 
@@ -29,14 +28,14 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### New York City
 
-* [Death and Co](http://www.deathandcompany.com) - Modern classic ⭐️
+* [Death and Co](http://www.deathandcompany.com) - Modern classic 
 * [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
 * [Angel's Share](http://www.yelp.com/biz/angels-share-new-york) - Laid back but serious 
 
 ### San Francisco Bay Area
 
 * [Mortar & Pestle](http://www.curryupnow.com/mortarandpestlebar) - Very well-balanced
-* [Pacific Cocktail Haven](http://pacificcocktailsf.com) - Friendly, loud, impeccable ⭐️
+* [Pacific Cocktail Haven](http://pacificcocktailsf.com) - Friendly, loud, impeccable 
 
 ### Seattle
 
@@ -51,7 +50,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### London
 
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
-* [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection ⭐️
+* [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
 * [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Drink, don't eat 🍴
 
 ### Istanbul
@@ -61,13 +60,13 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### Berlin
 
 * [Pauly Saal](http://paulysaal.com/) - Creative mix, classic vibe 🍴
-* [Lebensstern](http://www.lebensstern-berlin.de/) - Library of liquor ⭐️
+* [Lebensstern](http://www.lebensstern-berlin.de/) - Library of liquor 
 
 ## Middle East
 
 ### Tel Aviv
 
-* [Bellboy](//bellboybar.com/) – Dark, decadent 1930s speakeasy 🍸⭐️
+* [Bellboy](//bellboybar.com/) – Dark, decadent 1930s speakeasy 🍸
 
 ## Oceania 
 
