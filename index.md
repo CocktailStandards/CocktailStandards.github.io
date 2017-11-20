@@ -100,8 +100,8 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Singapore
 
-* [Tippling Club](http://www.tipplingclub.com/) - Another Bax wonder  🍸🍷
-
+* [28 HongKong Street](http://www.28hks.com) - Loud but tasty 🍸
+* [Crackerjack](https://crackerjack.sg) - And then Junior 🍸🍷🍴
 
 ### Tokyo
 
