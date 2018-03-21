@@ -48,6 +48,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
 * [Pollen Street Social](http://www.pollenstreetsocial.com/social-bar/social-bar/) - Drink, don't eat 🍴
+* [Dandelyan](https://www.dandelyanbar.com) - go 
 
 ### Istanbul
 
