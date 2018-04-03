@@ -43,6 +43,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ## Europe
 
+### Gent
+
+* [Jigger's](https://www.jiggers.be) - Little town, big cocktails
+
 ### London
 
 * [BYOC](http://www.byoc.co.uk) - Bring a bottle
