@@ -61,7 +61,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### Berlin
 
 * [Pauly Saal](http://paulysaal.com/) - Creative mix, classic vibe 🍴
-* [Lebensstern](http://www.lebensstern-berlin.de/) - Library of liquor 
+* [Lebensstern](http://www.lebens-stern.de/) - Library of liquor 
 
 ## Middle East
 
