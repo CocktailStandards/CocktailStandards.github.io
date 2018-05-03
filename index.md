@@ -61,6 +61,11 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
 
+### Paris
+
+* [Little Red Door](http://www.lrdparis.com/) - Delightful, surprising simplicity
+
+
 ## Middle East
 
 ### Tel Aviv
