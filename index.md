@@ -43,6 +43,11 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ## Europe
 
+### Berlin
+
+* [Pauly Saal](http://paulysaal.com/) - Creative mix, classic vibe 🍴
+* [Lebensstern](http://www.lebens-stern.de/) - Library of liquor 
+
 ### Gent
 
 * [Jigger's](https://www.jiggers.be) - Little town, big cocktails
@@ -55,11 +60,6 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### Istanbul
 
 * [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
-
-### Berlin
-
-* [Pauly Saal](http://paulysaal.com/) - Creative mix, classic vibe 🍴
-* [Lebensstern](http://www.lebens-stern.de/) - Library of liquor 
 
 ## Middle East
 
