@@ -52,14 +52,14 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Jigger's](https://www.jiggers.be) - Little town, big cocktails
 
+### Istanbul
+
+* [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
+
 ### London
 
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
 * [Dandelyan](https://www.dandelyanbar.com) - go 
-
-### Istanbul
-
-* [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
 
 ### Paris
 
