@@ -79,9 +79,9 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Melbourne
 
-* [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails
+* [Above Board](http://aboveboardbar.com) - Hayden's hidden lair
 * [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
-* [Boston Sub (Jungle Boy)](http://www.bostonsub.com.au) - Through the freezer 🍴
+* [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails
 
 ### Sydney
 
