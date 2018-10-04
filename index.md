@@ -28,7 +28,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Denver
 
-* [Death and Co](https://www.deathandcompany.com/denver) - Big, just as good
+* [Death & Co](https://www.deathandcompany.com/denver) - Big, just as good
 
 ### New York City
 
