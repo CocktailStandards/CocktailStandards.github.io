@@ -18,17 +18,21 @@ show_nav: true
 
 _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker](http://www.thebostonshaker.com)._
 
-### Chicago
-
-* [The Aviary](https://theaviary.com/) - Liquid Alinea ⚛
-
 ### Buenos Aires
 
 * [Florería Atlántico](http://www.floreriaatlantico.com.ar) - Crowded under the florist
 
+### Chicago
+
+* [The Aviary](https://theaviary.com/) - Liquid Alinea ⚛
+
+### Denver
+
+* [Death and Co](https://www.deathandcompany.com/denver) - Big, just as good
+
 ### New York City
 
-* [Death and Co](http://www.deathandcompany.com) - Modern classic 
+* [Death & Co](http://www.deathandcompany.com) - Modern classic 
 * [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
 * [Angel's Share](http://www.yelp.com/biz/angels-share-new-york) - Laid back but serious 
 
