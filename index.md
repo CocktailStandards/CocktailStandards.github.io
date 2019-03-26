@@ -100,7 +100,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Sapporo
 
-* [Bar Stars 2003](http://barstars2003.com/links/sp/index.html) - Omakase perfection 🍸
+* [Bar Stars 2003](https://www.barstars2003.com/) - Omakase perfection 🍸
 
 ### Seoul
 
