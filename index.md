@@ -63,7 +63,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### London
 
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
-* [Dandelyan](https://www.dandelyanbar.com) - go 
+* [Dandelyan](https://www.dandelyanbar.com) - ~go~ gone :(
 
 ### Paris
 
