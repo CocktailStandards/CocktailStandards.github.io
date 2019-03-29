@@ -69,6 +69,11 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Little Red Door](http://www.lrdparis.com/) - Delightful, surprising simplicity
 
+### Prague
+
+* [Parlour](http://parlour.cz) - Bespoke and intimate
+* [Cash Only](https://www.cashonlybar.cz/bar-prague/) - Innovative and fresh
+
 ### Stockholm
 
 * [Reisen Bar](https://www.facebook.com/reisenbar) - Unassuming, hidden gem
