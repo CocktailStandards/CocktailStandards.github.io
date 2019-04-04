@@ -47,6 +47,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ## Europe
 
+### Amsterdam
+
+* [Bar TwentySeven](https://www.hoteltwentyseven.com/en/bar/) - Opulant room, great drinks
+
 ### Berlin
 
 * [Pauly Saal](http://paulysaal.com/) - Creative mix, classic vibe 🍴
