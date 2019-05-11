@@ -18,17 +18,21 @@ show_nav: true
 
 _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker](http://www.thebostonshaker.com)._
 
-### Chicago
-
-* [The Aviary](https://theaviary.com/) - Liquid Alinea ⚛
-
 ### Buenos Aires
 
 * [Florería Atlántico](http://www.floreriaatlantico.com.ar) - Crowded under the florist
 
+### Chicago
+
+* [The Aviary](https://theaviary.com/) - Liquid Alinea ⚛
+
+### Denver
+
+* [Death & Co](https://www.deathandcompany.com/denver) - Big, just as good
+
 ### New York City
 
-* [Death and Co](http://www.deathandcompany.com) - Modern classic 
+* [Death & Co](http://www.deathandcompany.com) - Modern classic 
 * [Please Don't Tell](http://pdtnyc.com) - Speakeasy done well 🍴
 * [Angel's Share](http://www.yelp.com/biz/angels-share-new-york) - Laid back but serious 
 
@@ -42,6 +46,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 * [barchef](http://www.barcheftoronto.com) - Inventive and dark ⚛
 
 ## Europe
+
+### Amsterdam
+
+* [Bar TwentySeven](https://www.hoteltwentyseven.com/en/bar/) - Opulant room, great drinks
 
 ### Berlin
 
@@ -59,11 +67,16 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### London
 
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
-* [Dandelyan](https://www.dandelyanbar.com) - go 
+* [Dandelyan](https://www.dandelyanbar.com) - ~go~ gone :(
 
 ### Paris
 
 * [Little Red Door](http://www.lrdparis.com/) - Delightful, surprising simplicity
+
+### Prague
+
+* [Parlour](http://parlour.cz) - Bespoke and intimate
+* [Cash Only](https://www.cashonlybar.cz/bar-prague/) - Innovative and fresh
 
 ### Stockholm
 
@@ -96,7 +109,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 ### Sapporo
 
-* [Bar Stars 2003](http://barstars2003.com/links/sp/index.html) - Omakase perfection 🍸
+* [Bar Stars 2003](https://www.barstars2003.com/) - Omakase perfection 🍸
 
 ### Seoul
 
