@@ -1,2 +1,5 @@
 safe: true
 auto: true
+exclude:
+       - sass-cache/
+       - .jekyll-cache/

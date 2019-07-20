@@ -5,11 +5,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
         padding-bottom: 40px;
+      }
+      *:not([href])[id]:before  { 
+        display: block; 
+        content: " "; 
+        margin-top: -65px; 
+        height: 65px; 
+        visibility: hidden; 
       }
       .twtr-icon {
         fill: #00aced;
@@ -28,7 +35,6 @@
     
       <div class="container">
         <div class="page-header">  
-                  <h1>{{ page.title }}</h1>
                   <p><strong>Best Current Practice for drinking, worldwide.</strong></p>
               </div>
 
@@ -40,8 +46,8 @@
 
     </div>
 
-    <script src="/bower_components/jquery/jquery.min.js"></script>
-    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
   </body>
 </html>
