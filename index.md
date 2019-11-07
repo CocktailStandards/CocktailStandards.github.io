@@ -30,6 +30,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Death & Co](https://www.deathandcompany.com/denver) - Big, just as good
 
+### Las Vegas
+
+* [Herb & Rye](http://www.herbsandrye.com) - All the ages
+
 ### New York City
 
 * [Death & Co](http://www.deathandcompany.com) - Modern classic 
