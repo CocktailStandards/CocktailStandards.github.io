@@ -73,6 +73,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
 * [Dandelyan](https://www.dandelyanbar.com) - ~go~ gone :(
 
+### Lugano
+
+* [Flamel](https://flamellugano.com) - Swiss but not uptight
+
 ### Paris
 
 * [Little Red Door](http://www.lrdparis.com/) - Delightful, surprising simplicity
@@ -97,7 +101,7 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 ### Melbourne
 
 * [Above Board](http://aboveboardbar.com) - Hayden's hidden lair
-* [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
+* [Plug Nickel](https://plugnickel.com.au) - Three fresh drinks
 * [Eau de Vie](http://eaudevie.com.au/melbourne/) - Plain door, thoughtful cocktails
 
 ### Sydney
