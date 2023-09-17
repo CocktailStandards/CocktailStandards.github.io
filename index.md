@@ -68,6 +68,10 @@ _While you're in town, pick up excellent cocktail supplies at [The Boston Shaker
 
 * [Alex's](http://www.theguideistanbul.com/news/view/951/alex-waldmans-classy-imbibing-bar/) - Homemade hole-in-the-wall
 
+## Lisbon
+
+* [Red Frog](https://www.redfrog.pt) - Just right
+
 ### London
 
 * [69 Colebrooke Row](http://69colebrookerow.com) - Intimate perfection 
